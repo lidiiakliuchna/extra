@@ -13,3 +13,6 @@ for c in combinations(S, K):
     num += 'a' in c
 
 print(round(num / den,4))
+# 4
+# a a c d
+# 2
